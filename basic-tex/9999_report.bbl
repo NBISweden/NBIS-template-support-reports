@@ -1,0 +1,353 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{Andrews2010}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Andrews}{A.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AS1}
+  \strng{fullhash}{AS1}
+  \field{labelyear}{2010}
+  \field{pages}{Heinz, S., Benner, C., Spann, N., Bertolino, E., L}
+  \field{title}{{FastQC}}
+  \verb{url}
+  \verb http://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+  \endverb
+  \field{year}{2010}
+\endentry
+
+\entry{Bolger2014}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Bolger}{B.}%
+     {Anthony~M}{A.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lohse}{L.}%
+     {Marc}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Usadel}{U.}%
+     {Bjoern}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BAMLMUB1}
+  \strng{fullhash}{BAMLMUB1}
+  \field{labelyear}{2014}
+  \field{pages}{2114}
+  \field{title}{{Trimmomatic: A flexible trimmer for Illumina sequence data}}
+  \field{volume}{30}
+  \field{journaltitle}{Bioinformatics}
+  \field{year}{2014}
+\endentry
+
+\entry{Dobin2013}{article}{}
+  \name{author}{9}{}{%
+    {{}%
+     {Dobin}{D.}%
+     {Alexander}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Davis}{D.}%
+     {Carrie~A}{C.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schlesinger}{S.}%
+     {Felix}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Drenkow}{D.}%
+     {Jorg}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zaleski}{Z.}%
+     {Chris}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jha}{J.}%
+     {Sonali}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Batut}{B.}%
+     {Philippe}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chaisson}{C.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gingeras}{G.}%
+     {Thomas~R}{T.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Algorithms,Cluster Analysis,Gene Expression
+  Profiling,Genome,Human,Humans,RNA,RNA Splicing,Sequence Alignment,Sequence
+  Analysis,Software,methods}
+  \strng{namehash}{DA+1}
+  \strng{fullhash}{DADCASFDJZCJSBPCMGTR1}
+  \field{labelyear}{2013}
+  \field{abstract}{%
+  MOTIVATION: Accurate alignment of high-throughput RNA-seq data is a
+  challenging and yet unsolved problem because of the non-contiguous transcript
+  structure, relatively short read lengths and constantly increasing throughput
+  of the sequencing technologies. Currently available RNA-seq aligners suffer
+  from high mapping error rates, low mapping speed, read length limitation and
+  mapping biases. RESULTS: To align our large ({\textgreater}80 billon reads)
+  ENCODE Transcriptome RNA-seq dataset, we developed the Spliced Transcripts
+  Alignment to a Reference (STAR) software based on a previously undescribed
+  RNA-seq alignment algorithm that uses sequential maximum mappable seed search
+  in uncompressed suffix arrays followed by seed clustering and stitching
+  procedure. STAR outperforms other aligners by a factor of {\textgreater}50 in
+  mapping speed, aligning to the human genome 550 million 2 x 76 bp paired-end
+  reads per hour on a modest 12-core server, while at the same time improving
+  alignment sensitivity and precision. In addition to unbiased de novo
+  detection of canonical junctions, STAR can discover non-canonical splices and
+  chimeric (fusion) transcripts, and is also capable of mapping full-length RNA
+  sequences. Using Roche 454 sequencing of reverse transcription polymerase
+  chain reaction amplicons, we experimentally validated 1960 novel intergenic
+  splice junctions with an 80-90{\%} success rate, corroborating the high
+  precision of the STAR mapping strategy. AVAILABILITY AND IMPLEMENTATION: STAR
+  is implemented as a standalone C++ code. STAR is free open source software
+  distributed under GPLv3 license and can be downloaded from
+  http://code.google.com/p/rna-star/.%
+  }
+  \verb{doi}
+  \verb 10.1093/bioinformatics/bts635
+  \endverb
+  \field{issn}{1367-4811 (Electronic)}
+  \field{number}{1}
+  \field{pages}{15\bibrangedash 21}
+  \field{title}{{STAR: ultrafast universal RNA-seq aligner.}}
+  \field{volume}{29}
+  \field{journaltitle}{Bioinformatics (Oxford, England)}
+  \field{year}{2013}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Liao2013}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Liao}{L.}%
+     {Yang}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smyth}{S.}%
+     {Gordon~K}{G.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shi}{S.}%
+     {Wei}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{LYSGKSW1}
+  \strng{fullhash}{LYSGKSW1}
+  \field{labelyear}{2013}
+  \field{abstract}{%
+  Read alignment is an ongoing challenge for the analysis of data from
+  sequencing technologies. This article proposes an elegantly simple multi-seed
+  strategy, called seed-and-vote, for mapping reads to a reference genome. The
+  new strategy chooses the mapped genomic location for the read directly from
+  the seeds. It uses a relatively large number of short seeds (called subreads)
+  extracted from each read and allows all the seeds to vote on the optimal
+  location. When the read length is {\textless}160 bp, overlapping subreads are
+  used. More conventional alignment algorithms are then used to fill in
+  detailed mismatch and indel information between the subreads that make up the
+  winning voting block. The strategy is fast because the overall genomic
+  location has already been chosen before the detailed alignment is done. It is
+  sensitive because no individual subread is required to map exactly, nor are
+  individual subreads constrained to map close by other subreads. It is
+  accurate because the final location must be supported by several different
+  subreads. The strategy extends easily to find exon junctions, by locating
+  reads that contain sets of subreads mapping to different exons of the same
+  gene. It scales up efficiently for longer reads.%
+  }
+  \verb{doi}
+  \verb 10.1093/nar/gkt214
+  \endverb
+  \field{issn}{0305-1048}
+  \field{number}{10}
+  \field{pages}{e108\bibrangedash e108}
+  \field{title}{{The Subread aligner: fast, accurate and scalable read mapping
+  by seed-and-vote}}
+  \verb{url}
+  \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3664803/
+  \endverb
+  \field{volume}{41}
+  \field{journaltitle}{Nucleic Acids Research}
+  \field{year}{2013}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Li2009}{article}{}
+  \name{author}{9}{}{%
+    {{}%
+     {Li}{L.}%
+     {Heng}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Handsaker}{H.}%
+     {Bob}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wysoker}{W.}%
+     {Alec}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fennell}{F.}%
+     {Tim}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ruan}{R.}%
+     {Jue}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Homer}{H.}%
+     {Nils}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Marth}{M.}%
+     {Gabor}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Abecasis}{A.}%
+     {Goncalo}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Durbin}{D.}%
+     {Richard}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LH+1}
+  \strng{fullhash}{LHHBWAFTRJHNMGAGDR1}
+  \field{labelyear}{2009}
+  \field{abstract}{%
+  SUMMARY: The Sequence Alignment/Map (SAM) format is a generic alignment
+  format for storing read alignments against reference sequences, supporting
+  short and long reads (up to 128 Mbp) produced by different sequencing
+  platforms. It is flexible in style, compact in size, efficient in random
+  access and is the format in which alignments from the 1000 Genomes Project
+  are released. SAMtools implements various utilities for post-processing
+  alignments in the SAM format, such as indexing, variant caller and alignment
+  viewer, and thus provides universal tools for processing read alignments.
+  AVAILABILITY: http://samtools.sourceforge.net.%
+  }
+  \field{number}{16}
+  \field{pages}{2078\bibrangedash 2079}
+  \field{title}{{The Sequence Alignment/Map format and SAMtools}}
+  \field{volume}{25}
+  \field{journaltitle}{Bioinformatics}
+  \field{year}{2009}
+\endentry
+
+\entry{Ewels2016}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Ewels}{E.}%
+     {Philip}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Magnusson}{M.}%
+     {M{\aa}ns}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lundin}{L.}%
+     {Sverker}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {K{\"{a}}ller}{K.}%
+     {Max}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{EP+1}
+  \strng{fullhash}{EPMMLSKM1}
+  \field{labelyear}{2016}
+  \field{abstract}{%
+  Motivation: Fast and accurate quality control is essential for studies
+  involving next-generation sequencing data. Whilst numerous tools exist to
+  quantify QC metrics, there is no common approach to flexibly integrate these
+  across tools and large sample sets. Assessing analysis results across an
+  entire project can be time consuming and error prone; batch effects and
+  outlier samples can easily be missed in the early stages of analysis.
+  Results: We present MultiQC, a tool to create a single report visualising
+  output from multiple tools across many samples, enabling global trends and
+  biases to be quickly identified. MultiQC can plot data from many common
+  bioinformatics tools and is built to allow easy extension and customization.
+  Availability and implementation: MultiQC is available with an GNU GPLv3
+  license on GitHub, the Python Package Index and Bioconda. Documentation and
+  example reports are available at http://multiqc.info Contact:
+  phil.ewels@scilifelab.se%
+  }
+  \verb{doi}
+  \verb 10.1093/bioinformatics/btw354
+  \endverb
+  \field{issn}{1367-4803}
+  \field{number}{19}
+  \field{pages}{3047\bibrangedash 3048}
+  \field{title}{{MultiQC: summarize analysis results for multiple tools and
+  samples in a single report}}
+  \verb{url}
+  \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5039924/
+  \endverb
+  \field{volume}{32}
+  \field{journaltitle}{Bioinformatics}
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

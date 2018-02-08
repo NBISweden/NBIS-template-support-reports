@@ -1,0 +1,43 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Support request}{3}{section.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Important practical information}{3}{section.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Data responsibility}{3}{subsection.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Acknowledgments}{3}{subsection.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Work log}{3}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Materials and Methods}{4}{section.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Available data}{4}{subsection.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Data processing}{4}{subsection.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Differential expression}{4}{subsection.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4}Exon usage}{5}{subsection.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5}HOMER Motif Analysis}{5}{subsection.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Results}{5}{section.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Data exploration}{5}{subsection.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Differential expression}{7}{subsection.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.1}Estimating BCVs}{7}{subsubsection.5.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.2}GR1: time2 vs. time1}{8}{subsubsection.5.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.3}GR2: time2 vs. time1}{10}{subsubsection.5.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Deliverable}{12}{section.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}R session info}{13}{section.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}Where to go next}{13}{section.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9}Support project closing procedures}{13}{section.9}
