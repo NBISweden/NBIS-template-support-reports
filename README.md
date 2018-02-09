@@ -7,12 +7,14 @@ The following sections should be in the report:
 - [cover page](#cover)
 - [support request](#request)
 - [practical information incl. data responsiblity and acknowledgments](#practical) 
-- [work-log](#work-log)
 - [materials and methods](#MM)
 - [results](#results)
+- [support project closing procedures](#closing)
+
+In addition, depending on the project below sections may be handy to include
+- [work-log](#work-log)
 - [deliverables](#deliverables)
 - [where to go next](#next)
-- [support project closing procedures](#closing)
 
 ### Cover page <a name="cover"></a>
 Include:
@@ -85,15 +87,14 @@ Follow the content README.md, suggest improvements to existing templates and add
 1. If first time: `git clone https://github.com/NBISweden/NBIS-templates-support-reports`
 2. `cd NBIS-templates-support-reports`
 3. `git checkout drafts`
-4. Add your files using git, example: `git add 2017-09-13-foo-bar.md assets/img/myimg.png`
+4. Add your files using git, example: `git add foo.txt`
 5. `git commit -m "your commit description"`
 6. `git push origin drafts`
-7. Preview on [http://130.239.81.182/blog/](http://130.239.81.182/blog/)
-8. Create a pull request by
-    - visiting [https://github.com/NBISweden/nbis-blog](https://github.com/NBISweden/nbis-blog) and clicking on the `New pull request` button,
+7. Create a pull request by
+    - visiting [https://github.com/NBISweden/NBIS-templates-support-reports](https://github.com/NBISweden/NBIS-template-support-reports) and clicking on the `New pull request` button,
     - select the branch you want to merge into (`base: master`),
     - enter a Title and a Comment of the pull request,
     - click on the green `Create pull request` button.
-9. Alert a colleague for approval!
+8. Alert a colleague for approval!
 
 Not comfortable with Github? Contact Olga Dethlefsen < olga.dethlefsen@nbis.se >, Agata Smialowska < agata.smialowska@nbis.se >,  or Sebastian DiLorenzo < sebastian.dilorenzo@nbis.se >
