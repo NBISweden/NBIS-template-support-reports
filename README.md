@@ -1,8 +1,8 @@
 # NBIS support project templates
-This Github repository contains suggested report templates for NBIS support projects. The README.md contains basic structure and various sub-folders contain more specific examples using different writing systems (e.g. TeX, Sweave) and projects types (e.g. RNA-seq, ChIP-seq). See at the bottom on how to contribute. 
+This Github repository contains suggested report templates for NBIS support projects. The README.md contains basic structure and various sub-folders contain more specific examples using different writing systems (e.g. TeX, Sweave) and projects types (e.g. RNA-seq, ChIP-seq). See at the bottom how to contribute. 
 
 ## Suggested report structure
-We suggest to include the following sections in the report:
+The following sections should be in the report:
 
 - [cover page](#cover)
 - [support request](#request)
@@ -68,6 +68,7 @@ _Include results_
 
 ### Deliverables <a name="deliverables"></a>
 _**Optionally** include description and location of the key files delivered e.g. main plots, list of differential expression genes. Point the group to the files locaiton on Uppnex if applicable_
+
 
 ### Where to go next <a name="next"></a>
 _**Optionally** include things to help the group to use the results, e.g. recommendation of online tools that could be used to inspect the data, or tutotrials to understand in details data analysis etc._
