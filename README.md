@@ -28,26 +28,28 @@ Include:
 
 
 ### Support request <a name="request"></a>
-_Include support request as sent by the group and seen in Redmine (for reference purposes)_
+_Include support request as sent by the group and as seen in Redmine (for reference purposes)_
 
 ### Practical information <a name="practical"></a>
 _Include a friendly reminder where data responsiblity lies and how to acknowledge us e.g._
 
 #### Data responsibility
 - **NBIS \& Uppnex** Unfortunately, we do not have resources to keep any files associated with the support request. We kindly suggest that you store safely the results delivered by us. In addition, we kindly ask that you remove the files from UPPMAX/UPPNEX. The main storage at UPPNEX is optimized for high-speed and parallel access, which makes it expensive and not the right place for longer time archiving. Please consider others by not taking up the expensive space
+- **Sensitive data** Please note that special considerations may apply to the human-derived legally considered sensitive personal data. 
+These should be handled according to specific laws and regulations as outlined e.g. [here](http://nbis.se/support/human-data.html) 
 - **Long-term backup** The responsibility for data archiving lies with universities and we recommend asking your local IT for support with long-term data archiving. Also a newly established [Data Office](https://www.scilifelab.se/data/) at SciLifeLab may be of help to discuss other options. 
 
 #### Acknowledgments
 If you are presenting the results in a paper, at a workshop or conference, we kindly ask you to acknowledge us.
 
-- **NBIS staff** are encouraged to be co-authors when this is merited in accordance to the ethical recommendations for authorship, e.g. {\href{http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html}{ICMJE recommendations}}. If applicable, please include **Name, Surname, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Further Affliations**,   as co-author. In other cases, NBIS would be grateful if support by us is acknowledged in publications according to this example: ["Support by NBIS (National Bioinformatics Infrastructure Sweden) is gratefully acknowledged"](https://bils.se/resources/support.html)
+- **NBIS staff** are encouraged to be co-authors when this is merited in accordance to the ethical recommendations for authorship, e.g. [ICMJE recommendations](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html).If applicable, please include **Name, Surname, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Further Affliations**, as co-author. In other cases, NBIS would be grateful if support by us is acknowledged in publications according to this example: ["Support by NBIS (National Bioinformatics Infrastructure Sweden) is gratefully acknowledged"](https://bils.se/resources/support.html)
 
-- **Uppmax** kindly asks you to acknowledge UPPMAX and SNIC. If applicable, please add: [The computations were performed on resources provided by SNIC through Uppsala Multidisciplinary Center for Advanced Computational Science (UPPMAX) under Project SNIC XXXX/Y-ZZZ](The computations were performed on resources provided by SNIC through Uppsala Multidisciplinary Center for Advanced Computational Science (UPPMAX) under Project SNIC XXXX/Y-ZZZ.
-)
+- **Uppmax** kindly asks you to acknowledge UPPMAX and SNIC. If applicable, please add: [The computations were performed on resources provided by SNIC through Uppsala Multidisciplinary Center for Advanced Computational Science (UPPMAX) under Project SNIC XXXX/Y-ZZZ](https://www.uppmax.uu.se/support/faq/general-miscellaneous-faq/acknowledging-uppmax--snic--and-uppnex/)
+
 - **NGI Stockholm** In any and all publications based on data from NGI Sweden, the authors must acknowledge SciLifeLab, NGI and Uppmax, like so:  [The authors would like to acknowledge support from Science for Life Laboratory, the National Genomics Infrastructure, NGI, and Uppmax for providing assistance in massive parallel sequencing and computational infrastructure.](https://ngisweden.scilifelab.se/info/faq#how-do-i-acknowledge-ngi-in-my-publication)
 
 ### Work-log <a name="work-log"></a>
-_Include optionally work-log for the project with dates of meetings and key notes. In principle the same information should be in Redmine e.g._
+_**Optionally** include work-log for the project with dates of meetings and key notes. In principle the same information should be in Redmine e.g._
 
 A brief project history containing key points:
 
@@ -65,15 +67,16 @@ _Include Materials and Methods as in any scientific work_
 _Include results_
 
 ### Deliverables <a name="deliverables"></a>
-_Optionally include description and location of the key files delivered e.g. main plots, list of differential expression genes. Point the group to the files locaiton on Uppnex if applicable_
+_**Optionally** include description and location of the key files delivered e.g. main plots, list of differential expression genes. Point the group to the files locaiton on Uppnex if applicable_
+
 
 ### Where to go next <a name="next"></a>
-_Optionally include things to help the group to use the results, e.g. recommendation of online tools that could be used to inspect the data, or tutotrials to understand in details data analysis etc._
+_**Optionally** include things to help the group to use the results, e.g. recommendation of online tools that could be used to inspect the data, or tutotrials to understand in details data analysis etc._
 
 ### Support project closing procedures <a name="closing"></a>
-_Includea note about project closing procedures e.g._
+_Include a note about project closing procedures e.g._
 
-You should soon be contacted by one of our managers, Jessica Lindvall <jessica.lindvall@nbis.se> or Henrik Lantz <henrik.lantz@nbis.se>, with a request to close down the project in our internal system and for invoicing matters. If we do not hear from you within \textbf{30 days} the project will be automatically closed and invoice sent. Again, we would like to remind you about data responsibility and acknowledgements, see Data Responsibility and Acknowledgments sections. 
+You should soon be contacted by one of our managers, Jessica Lindvall <jessica.lindvall@nbis.se> or Henrik Lantz <henrik.lantz@nbis.se>, with a request to close down the project in our internal system and for invoicing matters. If we do not hear from you within **30 days** the project will be automatically closed and invoice sent. Again, we would like to remind you about data responsibility and acknowledgements, see [Data Responsibility and Acknowledgments sections](#practical). 
 
 You are naturally more than welcome to come back to us with further data analysis request at any time via [http://nbis.se/support/support.html](http://nbis.se/support/support.html). 
 
