@@ -49,7 +49,7 @@ If you are presenting the results in a paper, at a workshop or conference, we ki
 - **NGI Stockholm** In any and all publications based on data from NGI Sweden, the authors must acknowledge SciLifeLab, NGI and Uppmax, like so:  [The authors would like to acknowledge support from Science for Life Laboratory, the National Genomics Infrastructure, NGI, and Uppmax for providing assistance in massive parallel sequencing and computational infrastructure.](https://ngisweden.scilifelab.se/info/faq#how-do-i-acknowledge-ngi-in-my-publication)
 
 ### Work-log <a name="work-log"></a>
-_Include optionally work-log for the project with dates of meetings and key notes. In principle the same information should be in Redmine e.g._
+_**Optionally** include work-log for the project with dates of meetings and key notes. In principle the same information should be in Redmine e.g._
 
 A brief project history containing key points:
 
@@ -67,15 +67,15 @@ _Include Materials and Methods as in any scientific work_
 _Include results_
 
 ### Deliverables <a name="deliverables"></a>
-_Optionally include description and location of the key files delivered e.g. main plots, list of differential expression genes. Point the group to the files locaiton on Uppnex if applicable _
+_**Optionally** include description and location of the key files delivered e.g. main plots, list of differential expression genes. Point the group to the files locaiton on Uppnex if applicable_
 
 ### Where to go next <a name="next"></a>
-_Optionally include things to help the group to use the results, e.g. recommendation of online tools that could be used to inspect the data, or tutotrials to understand in details data analysis etc._
+_**Optionally** include things to help the group to use the results, e.g. recommendation of online tools that could be used to inspect the data, or tutotrials to understand in details data analysis etc._
 
 ### Support project closing procedures <a name="closing"></a>
-_Includea note about project closing procedures e.g._
+_Include a note about project closing procedures e.g._
 
-You should soon be contacted by one of our managers, Jessica Lindvall <jessica.lindvall@nbis.se> or Henrik Lantz <henrik.lantz@nbis.se>, with a request to close down the project in our internal system and for invoicing matters. If we do not hear from you within \textbf{30 days} the project will be automatically closed and invoice sent. Again, we would like to remind you about data responsibility and acknowledgements, see Data Responsibility and Acknowledgments sections. 
+You should soon be contacted by one of our managers, Jessica Lindvall <jessica.lindvall@nbis.se> or Henrik Lantz <henrik.lantz@nbis.se>, with a request to close down the project in our internal system and for invoicing matters. If we do not hear from you within **30 days** the project will be automatically closed and invoice sent. Again, we would like to remind you about data responsibility and acknowledgements, see [Data Responsibility and Acknowledgments sections](#practical). 
 
 You are naturally more than welcome to come back to us with further data analysis request at any time via [http://nbis.se/support/support.html](http://nbis.se/support/support.html). 
 
