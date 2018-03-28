@@ -1,5 +1,5 @@
 # NBIS support project templates
-This Github repository contains suggested report templates for NBIS support projects. The README.md contains basic structure and various sub-folders contain more specific examples using different writing systems (e.g. TeX, Sweave) and projects types (e.g. RNA-seq, ChIP-seq). See at the bottom how to contribute. 
+This Github repository contains recommended report templates for NBIS support projects. The README.md contains basic structure and various sub-folders contain more specific examples using different writing systems (e.g. TeX, Sweave) and projects types (e.g. RNA-seq, ChIP-seq). See at the bottom how to contribute. 
 
 ## Suggested report structure
 The following sections should be in the report:
@@ -11,10 +11,9 @@ The following sections should be in the report:
 - [results](#results)
 - [support project closing procedures](#closing)
 
-In addition, depending on the project below sections may be handy to include
-- [work-log](#work-log)
+It is also strongly recommended that these sections are included, if applicable:
 - [deliverables](#deliverables)
-- [where to go next](#next)
+- [summary](#summary)
 
 ### Cover page <a name="cover"></a>
 Include:
@@ -48,17 +47,6 @@ If you are presenting the results in a paper, at a workshop or conference, we ki
 
 - **NGI Stockholm** In any and all publications based on data from NGI Sweden, the authors must acknowledge SciLifeLab, NGI and Uppmax, like so:  [The authors would like to acknowledge support from Science for Life Laboratory, the National Genomics Infrastructure, NGI, and Uppmax for providing assistance in massive parallel sequencing and computational infrastructure.](https://ngisweden.scilifelab.se/info/faq#how-do-i-acknowledge-ngi-in-my-publication)
 
-### Work-log <a name="work-log"></a>
-_**Optionally** include work-log for the project with dates of meetings and key notes. In principle the same information should be in Redmine e.g._
-
-A brief project history containing key points:
-
-- **2015-09-15** first meeting with Jan to discuss experimental design, available data and desired results.	As first results, Jan would like to receive lists of differentially expressed (DE) genes between the two time points for the two groups
-- **2015-10-09** meeting with Jan to go over the DE results. Agreed that Jan will go over the DE results and try running gene set enrichment analyses using DAVID website.
-- **2015-11-06** run and emailed Jan the exon usage results for the 4 comparisons
-- **2015-12-01** run and emailed Jan the motif discovery Homer results
-- **2015-12-10** meeting with Jan to discuss the additional 
-- **2015-12-20** final results and report delivered
 
 ### Materials and Methods <a name="MM"></a>
 _Include Materials and Methods as in any scientific work_
@@ -67,11 +55,11 @@ _Include Materials and Methods as in any scientific work_
 _Include results_
 
 ### Deliverables <a name="deliverables"></a>
-_**Optionally** include description and location of the key files delivered e.g. main plots, list of differential expression genes. Point the group to the files locaiton on Uppnex if applicable_
+_**Strongly recommended, include if applicable** Description and location of key files delivered, e.g., main plots, list of differentially expressed genes, VCF-files, etc. Point the group to the location of the files on SNIC resources (e.g., UPPMAX) if applicable_
 
 
-### Where to go next <a name="next"></a>
-_**Optionally** include things to help the group to use the results, e.g. recommendation of online tools that could be used to inspect the data, or tutotrials to understand in details data analysis etc._
+### Summary <a name="summary"></a>
+_**Strongly recommended, include if applicable** A place to (in brief) summarize the results, including strengths and weaknesses of the used data and the results. This is also a good place to give recommendations on how to proceed, e.g., give recommendations of online tools that could be used to inspect the data, or point the User to tutorials to help them understand the data analyses._
 
 ### Support project closing procedures <a name="closing"></a>
 _Include a note about project closing procedures e.g._
