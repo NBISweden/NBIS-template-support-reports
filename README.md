@@ -55,11 +55,11 @@ _Include Materials and Methods as in any scientific work_
 _Include results_
 
 ### Deliverables <a name="deliverables"></a>
-_**Strongly recommended, include if applicable** Description and location of key files delivered, e.g., main plots, list of differentially expressed genes, VCF-files, etc. Point the group to the location of the files on SNIC resources (e.g., UPPMAX) if applicable_
+_**Strongly recommended, include if applicable**_ Description and location of key files delivered, e.g., main plots, list of differentially expressed genes, VCF-files, etc. Point the group to the location of the files on SNIC resources (e.g., UPPMAX) if applicable.
 
 
 ### Summary <a name="summary"></a>
-_**Strongly recommended, include if applicable** A place to (in brief) summarize the results, including strengths and weaknesses of the used data and the results. This is also a good place to give recommendations on how to proceed, e.g., give recommendations of online tools that could be used to inspect the data, or point the User to tutorials to help them understand the data analyses._
+_**Strongly recommended, include if applicable**_ A place to (in brief) summarize the results, including strengths and weaknesses of the used data and the results. This is also a good place to give recommendations on how to proceed, e.g., give recommendations of online tools that could be used to inspect the data, or point the User to tutorials to help them understand the data analyses.
 
 ### Support project closing procedures <a name="closing"></a>
 _Include a note about project closing procedures e.g._
