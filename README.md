@@ -1,17 +1,17 @@
 # NBIS support project templates
-This Github repository contains recommended report templates for NBIS support projects. The README.md contains basic structure and various sub-folders contain more specific examples using different writing systems (e.g. TeX, Sweave) and projects types (e.g. RNA-seq, ChIP-seq). See at the bottom how to contribute. 
+This Github repository contains recommended report templates for NBIS support projects. See at the bottom how to contribute.
 
 ## Suggested report structure
 The following sections should be in the report:
 
 - [cover page](#cover)
 - [support request](#request)
-- [practical information incl. data responsiblity and acknowledgments](#practical) 
+- [practical information incl. data responsiblity and acknowledgments](#practical)
 - [materials and methods](#MM)
 - [results](#results)
 - [support project closing procedures](#closing)
 
-It is also strongly recommended that these sections are included, if applicable:
+It is also recommended that these sections are included, if applicable:
 - [deliverables](#deliverables)
 - [summary](#summary)
 
@@ -34,9 +34,9 @@ _Include a friendly reminder where data responsiblity lies and how to acknowledg
 
 #### Data responsibility
 - **NBIS \& Uppnex** Unfortunately, we do not have resources to keep any files associated with the support request. We kindly suggest that you store safely the results delivered by us. In addition, we kindly ask that you remove the files from UPPMAX/UPPNEX. The main storage at UPPNEX is optimized for high-speed and parallel access, which makes it expensive and not the right place for longer time archiving. Please consider others by not taking up the expensive space
-- **Sensitive data** Please note that special considerations may apply to the human-derived legally considered sensitive personal data. 
-These should be handled according to specific laws and regulations as outlined e.g. [here](http://nbis.se/support/human-data.html) 
-- **Long-term backup** The responsibility for data archiving lies with universities and we recommend asking your local IT for support with long-term data archiving. Also a newly established [Data Office](https://www.scilifelab.se/data/) at SciLifeLab may be of help to discuss other options. 
+- **Sensitive data** Please note that special considerations may apply to the human-derived legally considered sensitive personal data.
+These should be handled according to specific laws and regulations as outlined e.g. [here](http://nbis.se/support/human-data.html)
+- **Long-term backup** The responsibility for data archiving lies with universities and we recommend asking your local IT for support with long-term data archiving. Also a newly established [Data Office](https://www.scilifelab.se/data/) at SciLifeLab may be of help to discuss other options.
 
 #### Acknowledgments
 If you are presenting the results in a paper, at a workshop or conference, we kindly ask you to acknowledge us.
@@ -64,15 +64,15 @@ _**Strongly recommended, include if applicable**_ A place to (in brief) summariz
 ### Support project closing procedures <a name="closing"></a>
 _Include a note about project closing procedures e.g._
 
-You should soon be contacted by one of our managers, Jessica Lindvall <jessica.lindvall@nbis.se> or Henrik Lantz <henrik.lantz@nbis.se>, with a request to close down the project in our internal system and for invoicing matters. If we do not hear from you within **30 days** the project will be automatically closed and invoice sent. Again, we would like to remind you about data responsibility and acknowledgements, see [Data Responsibility and Acknowledgments sections](#practical). 
+You should soon be contacted by one of our managers, Jessica Lindvall <jessica.lindvall@nbis.se> or Henrik Lantz <henrik.lantz@nbis.se>, with a request to close down the project in our internal system and for invoicing matters. If we do not hear from you within **30 days** the project will be automatically closed and invoice sent. Again, we would like to remind you about data responsibility and acknowledgements, see [Data Responsibility and Acknowledgments sections](#practical).
 
-You are naturally more than welcome to come back to us with further data analysis request at any time via [http://nbis.se/support/support.html](http://nbis.se/support/support.html). 
+You are naturally more than welcome to come back to us with further data analysis request at any time via [http://nbis.se/support/support.html](http://nbis.se/support/support.html).
 
-Thank you for using NBIS and all the best for future research. 
+Thank you for using NBIS and all the best for future research.
 
 -----------
 #### How to contribute?
-Follow the content README.md, suggest improvements to existing templates and add your versions for different platforms and expertise fields. 
+Follow the content README.md, suggest improvements to existing templates and add your versions for different platforms and expertise fields.
 
 ##### Github instructions
 1. If first time: `git clone https://github.com/NBISweden/NBIS-templates-support-reports`
