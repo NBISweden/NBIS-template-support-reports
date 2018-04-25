@@ -33,8 +33,8 @@ _Include support request as sent by the group and as seen in Redmine (for refere
 _Include a friendly reminder where data responsiblity lies and how to acknowledge us e.g._
 
 #### Data responsibility
-- **NBIS \& Uppnex** Unfortunately, we do not have resources to keep any files associated with the support request. We kindly suggest that you store safely the results delivered by us. In addition, we kindly ask that you remove the files from UPPMAX/UPPNEX. The main storage at UPPNEX is optimized for high-speed and parallel access, which makes it expensive and not the right place for longer time archiving. Please consider others by not taking up the expensive space
-- **Sensitive data** Please note that special considerations may apply to the human-derived legally considered sensitive personal data.
+- **NBIS \& Uppnex** Unfortunately, we do not have resources to keep any files associated with the support request. We suggest that you safely store the results delivered by us. In addition, we ask that you remove the files from UPPMAX/UPPNEX after analysis is completed. The main storage at UPPNEX is optimized for high-speed and parallel access, which makes it expensive and not the right place for long time archiving.
+- **Sensitive data** Please note that special considerations may apply to the human-derived sensitive personal data.
 These should be handled according to specific laws and regulations as outlined e.g. [here](http://nbis.se/support/human-data.html)
 - **Long-term backup** The responsibility for data archiving lies with universities and we recommend asking your local IT for support with long-term data archiving. Also a newly established [Data Office](https://www.scilifelab.se/data/) at SciLifeLab may be of help to discuss other options.
 
