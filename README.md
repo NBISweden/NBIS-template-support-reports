@@ -1,4 +1,4 @@
-# NBIS support project templates
+# NBIS support project template
 This Github repository contains Quarto report template, `NBIS_Quarto_Report.qmd` and `_extensions` for NBIS support projects.
 
 ## Install Quarto
