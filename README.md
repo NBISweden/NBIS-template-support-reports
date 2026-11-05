@@ -66,10 +66,10 @@ _The results of the project. Can be plots, tables etc._
 
 
 -----------
-#### How to contribute?
+## How to contribute?
 Follow the content README.md, suggest improvements to existing templates and add your versions for different platforms and expertise fields.
 
-##### Github instructions
+### Github instructions
 1. Fork the repository.
 2. Make your changes.
 3. Create a pull request.
