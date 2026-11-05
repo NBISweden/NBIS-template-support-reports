@@ -1,0 +1,95 @@
+---
+title: NBIS Support \#1234
+subtitle: Redmine issue title
+author: YOUR NAME
+date: last-modified
+format:
+    nbis-html: default
+knitr:
+    opts_chunk:
+        fig.width: 12
+        fig.height: 8
+        fig.align: "center"
+        message: FALSE
+        warning: FALSE
+---
+
+# Support request
+## Contact
+Main contact
+: Don Johnson, don.johnson@somewhere.com
+
+
+Principal investigator
+: Ron Johnson, ron.johnson@somewhere.com
+
+NBIS expert
+: YOUR NAME , YOUR.NAME@nbis.se
+
+## Request
+SUPPORT REQUEST TEXT FROM REDMINE
+
+# Practical information
+## Data responsibility
+NBIS and HPC resources
+: Unfortunately, we do not have resources to keep any files associated with the support request. We suggest that you safely store the results delivered by us. In addition, we ask that you remove the files from HPC resources after analysis is completed. The main storage at HPC resources is optimized for high-speed and parallel access, which makes it expensive and not the right place for long time archiving.
+
+Sensitive data
+: Please note that special considerations may apply to the human-derived sensitive personal data. These should be handled according to [specific laws and regulations](https://data-guidelines.scilifelab.se/topics/research-involving-human-data/).
+
+Long-term backup
+: The responsibility for data archiving lies with universities and we recommend asking your local IT for support about long-term data archiving. Additionally the [Data Center](https://www.scilifelab.se/data-ai/) at SciLifeLab may be of help to discuss other options.
+
+## Acknowledgements
+If you are presenting the results in a paper, at a workshop or conference, we kindly ask you to acknowledge us.
+
+NBIS
+: Staff are encouraged to be co-authors when this is merited in accordance to the ethical recommendations for authorship, e.g. [ICMJE recommendations](http://www.icmje.org/recommendations/). If applicable, please include YOUR NAME, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, YOUR University, Department of YOUR DEPARTMENT as co-author. In other cases, NBIS would be grateful if support by us is acknowledged in publications according to this example:"Support by NBIS (National Bioinformatics Infrastructure Sweden) is gratefully acknowledged."
+
+For computations, please see the following pages for the respective acknowledgment recommendations:
+
+| Site      | Request                                                                 |
+|-----------|-------------------------------------------------------------------------|
+| NAISS/NSC (arrhenius, triolith) | [NAISS acknowledgment inforamation](https://www.naiss.se/policies/acknowledge/) |
+| UPPMAX (bianca, rackham, snowy, pelle, maja) | [UPPMAX acknowledgement information](https://www.uu.se/en/centre/uppmax/get-started/acknowledge-naiss-uppmax) |
+| PDC/KTH (Dardel) | [PDC acknowledgment suggestions](https://www.pdc.kth.se/research/acknowledgement-of-using-resources-at-pdc-for-research-1.918148) |
+| LUNARC |  [LUNARC acknowledgment information](https://www.lunarc.lu.se/getting-access/how-get-access/how-acknowledge-lunarc) |
+| C3SE | [C3SE acknowledgment information](https://www.c3se.chalmers.se/#acknowledgement-suggestion)|
+| HPC2N | [HPC2N acknowledgement information](https://docs.hpc2n.umu.se/documentation/accounts-rules/#acknowledgment) |
+
+# Summary
+A short summary of the work performed by NBIS in the project.
+
+# Deliverables
+Description and location of key files delivered, e.g., main plots, list of differentially expressed genes, VCF-files, etc. Point the group to the location of the files on HPC resources if applicable.
+
+# Materials and Methods
+This section contains information on which methods and parameters that were applied to the data. Code may have been edited for legibility and should not be run as is.
+
+## Data
+A description of data. Can be data used as resources during the project, such as reference data or annotation data, as well.
+
+## Other Methods
+Other methods, such as custom scripts or commandline tools to adjust the data for example.
+
+# Results
+The results of the project. Can be plots, tables etc.
+
+<!-- To include an image:
+![Elephant](elephant.png) -->
+
+```{r}
+#| fig-cap: A plot
+library("ggplot2")
+ggplot(data=iris,mapping=aes(x=Petal.Length,y=Petal.Width,color=Species))+
+  geom_point()+
+  geom_smooth(method="lm")
+```
+
+```{r}
+#| tbl-cap: A table
+iris[1:20, ]
+```
+
+Some text with `inline code` and a
+[link](https://quarto.org/docs/output-formats/html-basics.html).
